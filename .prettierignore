@@ -1,0 +1,6 @@
+#Ignore artifacts
+build/
+dist/
+
+#ignore specific files
+package-lock.json
