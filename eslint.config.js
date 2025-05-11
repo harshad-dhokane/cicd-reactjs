@@ -17,7 +17,7 @@ export default tseslint.config(
       'react-hooks': reactHooks,
       'react-refresh': reactRefresh,
       '@typescript-eslint': tseslint,
-      'prettier': warn,
+      // 'prettier': warn,
     },
     rules: {
       ...reactHooks.configs.recommended.rules,
